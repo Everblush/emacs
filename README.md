@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./assets/logo.png" style="height: 200px; width: 200px; " alt="logo"> 
+</div> 
+
 <h2 align="center"> Everblush Emacs </h2> 
 
 ## Preview
